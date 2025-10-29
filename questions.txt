@@ -2,9 +2,18 @@ Please write your answers in a file called "answers.txt" with your names
 at the top in this repository. Please number each answer.
 
 1. List 3 examples of a real world queue.
+- car wash
+- waiting in a store line 
+- traffic at a light 
+
 
 2. List 3 examples of a real world stack.
+- papers together 
+- folded clothes on top of one another 
+- stack of pancakes 
 
 3. If a piece of software passes all of its unit tests does it necessarily work correctly? Why or why not?
+- No, it can still pass all of the test, and still not run the right way. Your could've did something wrong but its still logical in python 
 
 4. Why is a linked list better than a fixed-size array for implementing stacks and queues?
+- fixed size arrays habe limit space of what you can put in there, compared ti tge linked list where the size can grow or shirnk depending on what you want in there
